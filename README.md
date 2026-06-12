@@ -257,15 +257,6 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 </div>
 
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ak6580123/ak6580123/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
