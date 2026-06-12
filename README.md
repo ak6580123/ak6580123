@@ -27,15 +27,15 @@
 <img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/ak6580123">
 <img src="https://img.shields.io/badge/GitHub-Profile-6366F1?style=for-the-badge"/>
 </a>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=yourusername\&style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/followers/yourusername?style=for-the-badge\&color=A855F7)
-![](https://img.shields.io/github/stars/yourusername?style=for-the-badge\&color=4F46E5)
+![](https://komarev.com/ghpvc/?username=ak6580123\&style=for-the-badge\&color=7C3AED)
+![](https://img.shields.io/github/followers/ak6580123?style=for-the-badge\&color=A855F7)
+![](https://img.shields.io/github/stars/ak6580123?style=for-the-badge\&color=4F46E5)
 
 </div>
 
@@ -229,11 +229,11 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ak6580123&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ak6580123&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak6580123&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -243,7 +243,7 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ak6580123&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -253,7 +253,7 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak6580123&theme=tokyo-night"/>
 
 </div>
 
@@ -263,7 +263,7 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ak6580123/ak6580123/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -310,7 +310,7 @@ Open_To:
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/ak6580123">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge"/>
 </a>
 
