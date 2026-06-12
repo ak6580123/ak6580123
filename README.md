@@ -204,7 +204,7 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 ## Professional Certifications
 
-![]([https://img.shields.io/badge/CPT-v3-Certified-A855F7?style=for-the-badge](https://img.shields.io/badge/CPT%20v3-Certified-A855F7?style=for-the-badge))
+![]([https://img.shields.io/badge/CPT-v3-Certified-A855F7?style=for-the-badge](https://img.shields.io/badge/CPT%20v3-Certified-A855F7?style=for-the-badge])
 ![](https://img.shields.io/badge/Skill%20India-Cybersecurity-4F46E5?style=for-the-badge)
 
 ---
