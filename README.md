@@ -246,7 +246,7 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ak6580123&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF3B30&icon_color=DC2626&text_color=C9D1D9"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=ak6580123&hide_border=true&background=00000000&ring=FF3B30&fire=DC2626&currStreakLabel=FF3B30"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=ak6580123&hide_border=true&background=00000000&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=C9D1D9&sideLabels=FFFFFF"/>
 
 </div>
 
