@@ -1,14 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F1D1D,50:DC2626,100:FF3B30&text=Adarsh%20Koshy&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=FF3B30&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Systems+Builder;Full-Stack+Developer;Open+Source+Contributor;Building+Secure+and+Intelligent+Systems"/>
-
-<br><br>
-
-Cybersecurity • AI Engineering • Full-Stack Systems • Open Source
+<img width="100%" src="./assets/png/hero.png"/>
 
 <br><br>
 
@@ -32,7 +24,11 @@ Cybersecurity • AI Engineering • Full-Stack Systems • Open Source
 
 ---
 
-# Philosophy
+<div align="center">
+
+<img width="100%" src="./assets/png/philosophy.png"/>
+
+</div>
 
 I build systems that are secure by default, intelligent by design, and scalable by necessity.
 
@@ -42,7 +38,11 @@ Currently pursuing a **B.Tech in Computer Science Engineering (Cybersecurity)** 
 
 ---
 
-# Current Focus
+<div align="center">
+
+<img width="100%" src="./assets/png/current_focus.png"/>
+
+</div>
 
 ```text
 ──────────────────────────────────────────────
@@ -62,7 +62,11 @@ Open To       → Internships
 
 ---
 
-# Engineering Stack
+<div align="center">
+
+<img width="100%" src="./assets/png/engineering_stack.png"/>
+
+</div>
 
 <div align="center">
 
@@ -80,7 +84,11 @@ Open To       → Internships
 
 ---
 
-# AI Systems
+<div align="center">
+
+<img width="100%" src="./assets/png/ai_systems.png"/>
+
+</div>
 
 | Area              | Focus                          |
 | ----------------- | ------------------------------ |
@@ -93,7 +101,11 @@ Open To       → Internships
 
 ---
 
-# Selected Work
+<div align="center">
+
+<img width="100%" src="./assets/png/selected_work.png"/>
+
+</div>
 
 <details>
 <summary><b>VaultAI</b></summary>
@@ -153,7 +165,11 @@ https://github.com/ak9886/ChatApp
 
 ---
 
-# Experience
+<div align="center">
+
+<img width="100%" src="./assets/png/experience.png"/>
+
+</div>
 
 ## Cybersecurity & Software Engineering Student
 
@@ -178,7 +194,7 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 
 ---
 
-# Recognition
+## Recognition
 
 | Event                      | Area                          |
 | -------------------------- | ----------------------------- |
@@ -192,7 +208,7 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 
 ---
 
-# Certifications
+## Certifications
 
 <div align="center">
 
@@ -204,7 +220,7 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 
 ---
 
-# Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -220,7 +236,11 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 
 ---
 
-# GitHub Metrics
+<div align="center">
+
+<img width="100%" src="./assets/png/metrics.png"/>
+
+</div>
 
 <div align="center">
 
@@ -238,9 +258,7 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 
 </div>
 
----
-
-# Development Profile
+<br>
 
 <div align="center">
 
@@ -256,7 +274,11 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 
 ---
 
-# Contact
+<div align="center">
+
+<img width="100%" src="./assets/png/contact.png"/>
+
+</div>
 
 <div align="center">
 
@@ -271,7 +293,5 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 *"Build deliberately. Secure relentlessly. Learn continuously."*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F1D1D,50:DC2626,100:FF3B30"/>
 
 </div>
