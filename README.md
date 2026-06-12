@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Adarsh%20Koshy&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 
@@ -8,18 +8,18 @@
 
 ![](https://img.shields.io/badge/B.Tech-CSE%20Cybersecurity-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/SRMIST-Chennai-A855F7?style=for-the-badge)
-![](https://img.shields.io/badge/CPT-v3%20Certified-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/CPT%20v3-Certified-purple?style=for-the-badge)
 ![](https://img.shields.io/badge/Skill%20India-Cybersecurity-6366F1?style=for-the-badge)
 
 <br>
 
 ![](https://img.shields.io/badge/Location-Chennai%2C%20India-4F46E5?style=for-the-badge)
 
-<a href="https://portfolio.example.com">
+<a href="https://github.com/ak6580123">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge"/>
 </a>
 
@@ -35,7 +35,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ak6580123\&style=for-the-badge\&color=7C3AED)
 ![](https://img.shields.io/github/followers/ak6580123?style=for-the-badge\&color=A855F7)
-![](https://img.shields.io/github/stars/ak6580123?style=for-the-badge\&color=4F46E5)
 
 </div>
 
@@ -84,18 +83,26 @@ My work combines modern software engineering practices, artificial intelligence,
 <img src="https://skillicons.dev/icons?i=docker,gcp,git,github"/>
 </p>
 
+## Security & Reverse Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux"/>
+</p>
+
+`Metasploit` `Binary Ninja` `GDB` `OpenWebUI` `Ollama` `9Router` `n8n`
+
 ---
 
 # AI / ML Expertise
 
-| Domain                  | Proficiency  | Details                                    |
-| ----------------------- | ------------ | ------------------------------------------ |
-| LLM Engineering         | Advanced     | Ollama, OpenWebUI, Local AI Deployment     |
-| Retrieval Systems       | Advanced     | Knowledge Retrieval and Context Processing |
-| AI Automation           | Advanced     | Workflow Automation using n8n              |
-| Prompt Engineering      | Advanced     | Multi-Agent and AI-Assisted Development    |
-| Security AI             | Intermediate | AI-assisted Defensive Security Research    |
-| Local AI Infrastructure | Advanced     | Self-hosted Models and Toolchains          |
+| Domain                  | Proficiency  | Details                         |
+| ----------------------- | ------------ | ------------------------------- |
+| LLM Engineering         | Advanced     | Ollama, Local AI Deployment     |
+| AI Automation           | Advanced     | n8n Workflow Automation         |
+| Prompt Engineering      | Advanced     | Multi-Agent Development         |
+| Retrieval Systems       | Advanced     | Knowledge Retrieval Pipelines   |
+| Security AI             | Intermediate | AI-Assisted Defensive Security  |
+| Local AI Infrastructure | Advanced     | Self-Hosted Models & Toolchains |
 
 ---
 
@@ -106,38 +113,36 @@ My work combines modern software engineering practices, artificial intelligence,
 
 ### Intelligent Personal Knowledge Vault
 
-| Metric      | Details                                        |
-| ----------- | ---------------------------------------------- |
-| Stack       | Python, JSON, Pickle, PowerShell, Bash, Ollama |
-| Scale       | Multi-source knowledge indexing                |
-| Performance | Concurrent context processing                  |
-| Security    | Local-first architecture                       |
-| Impact      | Improved information retrieval                 |
-| Repository  | [https://github.com/ak6580123/vaultai ](https://github.com/ak6580123/VaultAI/tree/master)       |
+| Metric      | Details                                                     |
+| ----------- | ----------------------------------------------------------- |
+| Stack       | Python, JSON, Pickle, PowerShell, Bash, Ollama              |
+| Scale       | Multi-source knowledge indexing                             |
+| Performance | Concurrent context processing                               |
+| Security    | Local-first architecture                                    |
+| Impact      | Enhanced information recall                                 |
+| Repository  | [VaultAI](https://github.com/ak6580123/VaultAI/tree/master) |
 
-VaultAI is an AI-powered vault scanning platform designed to help users discover, retrieve, and interact with their personal knowledge repositories.
+VaultAI is an AI-powered vault scanning platform designed to help users discover, retrieve, and interact with personal knowledge repositories.
 
-Features include automated context gathering, concurrent document processing, local LLM integration through Ollama, and intelligent knowledge recall mechanisms.
+Features include automated context gathering, concurrent document processing, local LLM integration through Ollama, and intelligent knowledge recall.
 
 </details>
 
 <details>
-<summary><b>ChatApp (Alt Account)</b></summary>
+<summary><b>ChatApp</b></summary>
 
 ### Secure Multi-User Communication Platform
 
-| Metric      | Details                                 |
-| ----------- | --------------------------------------- |
-| Stack       | Java, PostgreSQL, JDBC                  |
-| Scale       | Multi-user messaging                    |
-| Performance | Offline queue processing                |
-| Security    | SHA-256 message protection              |
-| Impact      | Reliable communication infrastructure   |
-| Repository  | [https://github.com/ak9886/chatapp](https://github.com/ak9886/ChatApp) |
+| Metric      | Details                                      |
+| ----------- | -------------------------------------------- |
+| Stack       | Java, PostgreSQL, JDBC                       |
+| Scale       | Multi-user messaging                         |
+| Performance | Offline queue processing                     |
+| Security    | SHA-256 message protection                   |
+| Impact      | Reliable communication infrastructure        |
+| Repository  | [ChatApp](https://github.com/ak9886/ChatApp) |
 
 A secure chat platform supporting multi-user communication, group conversations, offline delivery logic, and database-backed persistence.
-
-The system demonstrates practical software engineering principles around reliability, scalability, and secure communication.
 
 </details>
 
@@ -177,7 +182,7 @@ Focused on cybersecurity engineering, software development, artificial intellige
 | Attack & Defence Challenge | Defensive Security Exposure          |
 | ByteBeat CTF               | Capture The Flag Participation       |
 | Hackpick Bootcamp          | Technical Development Program        |
-| HACKSTROM                  | Security and Engineering Competition |
+| HACKSTROM                  | Security Competition                 |
 | HTB CTF                    | Hands-on Security Challenges         |
 
 </div>
@@ -186,25 +191,10 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 # Certifications
 
-## AWS
-
-![](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Engineering-7C3AED?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge)
-
 ## Professional Certifications
 
-![](https://img.shields.io/badge/CPT%20v3-Certified-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/CPT%20v3-Certified-purple?style=for-the-badge)
+
 ![](https://img.shields.io/badge/Skill%20India-Cybersecurity-4F46E5?style=for-the-badge)
 
 ---
@@ -229,21 +219,27 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ak6580123&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ak6580123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ak6580123&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ak6580123&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak6580123&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak6580123&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ak6580123&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak6580123&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak6580123&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak6580123&theme=tokyonight"/>
 
 </div>
 
@@ -256,7 +252,6 @@ Focused on cybersecurity engineering, software development, artificial intellige
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak6580123&theme=tokyo-night"/>
 
 </div>
-
 
 ---
 
@@ -297,7 +292,7 @@ Open_To:
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge"/>
 </a>
 
@@ -305,7 +300,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge"/>
 </a>
 
-<a href="https://portfolio.example.com">
+<a href="https://github.com/ak6580123">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
