@@ -113,7 +113,7 @@ My work combines modern software engineering practices, artificial intelligence,
 | Performance | Concurrent context processing                  |
 | Security    | Local-first architecture                       |
 | Impact      | Improved information retrieval                 |
-| Repository  | https://github.com/yourusername/vaultai        |
+| Repository  | [https://github.com/ak6580123/vaultai ](https://github.com/ak6580123/VaultAI/tree/master)       |
 
 VaultAI is an AI-powered vault scanning platform designed to help users discover, retrieve, and interact with their personal knowledge repositories.
 
@@ -122,7 +122,7 @@ Features include automated context gathering, concurrent document processing, lo
 </details>
 
 <details>
-<summary><b>ChatApp</b></summary>
+<summary><b>ChatApp (Alt Account)</b></summary>
 
 ### Secure Multi-User Communication Platform
 
@@ -133,7 +133,7 @@ Features include automated context gathering, concurrent document processing, lo
 | Performance | Offline queue processing                |
 | Security    | SHA-256 message protection              |
 | Impact      | Reliable communication infrastructure   |
-| Repository  | https://github.com/yourusername/chatapp |
+| Repository  | [https://github.com/ak9886/chatapp](https://github.com/ak9886/ChatApp) |
 
 A secure chat platform supporting multi-user communication, group conversations, offline delivery logic, and database-backed persistence.
 
