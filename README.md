@@ -1,148 +1,153 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Adarsh%20Koshy&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+%26+ML+Enthusiast;Full-Stack+Developer;Open+Source+Contributor;Building+Secure+and+Intelligent+Systems"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F1D1D,50:DC2626,100:FF3B30&text=Adarsh%20Koshy&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-![](https://img.shields.io/badge/B.Tech-CSE%20Cybersecurity-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/SRMIST-Chennai-A855F7?style=for-the-badge)
-![](https://img.shields.io/badge/CPT%20v3-Certified-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Skill%20India-Cybersecurity-6366F1?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=FF3B30&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;AI+Systems+Builder;Full-Stack+Developer;Open+Source+Contributor;Building+Secure+and+Intelligent+Systems"/>
 
-<br>
+<br><br>
 
-![](https://img.shields.io/badge/Location-Chennai%2C%20India-4F46E5?style=for-the-badge)
+Cybersecurity • AI Engineering • Full-Stack Systems • Open Source
+
+<br><br>
 
 <a href="https://github.com/ak6580123">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-ak6580123-181717?style=flat-square"/>
 </a>
 
 <a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square"/>
 </a>
 
-<a href="https://github.com/ak6580123">
-<img src="https://img.shields.io/badge/GitHub-Profile-6366F1?style=for-the-badge"/>
-</a>
+<br><br>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=ak6580123\&style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/followers/ak6580123?style=for-the-badge\&color=A855F7)
+![](https://komarev.com/ghpvc/?username=ak6580123\&style=flat-square\&color=DC2626)
 
 </div>
 
 ---
 
-# About
+# Philosophy
 
-Software Engineering student specializing in Cybersecurity with a strong focus on building secure, scalable, and intelligent software systems.
+I build systems that are secure by default, intelligent by design, and scalable by necessity.
 
-My work combines modern software engineering practices, artificial intelligence, defensive security, and product-focused development. I enjoy transforming complex technical problems into practical solutions while maintaining high standards for security, performance, and maintainability.
+My interests sit at the intersection of cybersecurity, artificial intelligence, product engineering, and open-source software.
 
-### Open To
-
-* Software Engineering Internships
-* Cybersecurity Projects
-* AI/ML Research Collaborations
-* Open Source Contributions
-* Product Engineering Opportunities
-* Security Engineering Roles
+Currently pursuing a **B.Tech in Computer Science Engineering (Cybersecurity)** at **SRM Institute of Science and Technology**, where I focus on defensive security, AI-powered tooling, systems development, and practical software engineering.
 
 ---
 
-# Tech Stack
+# Current Focus
 
-## Languages
+```text
+──────────────────────────────────────────────
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,bash"/>
-</p>
+Building      → VaultAI
+Learning      → Advanced Cybersecurity
+Exploring     → Agentic AI Systems
+Researching   → AI-Assisted Security
 
-## Frontend
+Open To       → Internships
+             → Open Source
+             → Security Research
+             → Engineering Collaborations
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,postgresql"/>
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,github"/>
-</p>
-
-## Security & Reverse Engineering
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux"/>
-</p>
-
-`Metasploit` `Binary Ninja` `GDB` `OpenWebUI` `Ollama` `9Router` `n8n`
+──────────────────────────────────────────────
+```
 
 ---
 
-# AI / ML Expertise
+# Engineering Stack
 
-| Domain                  | Proficiency  | Details                         |
-| ----------------------- | ------------ | ------------------------------- |
-| LLM Engineering         | Advanced     | Ollama, Local AI Deployment     |
-| AI Automation           | Advanced     | n8n Workflow Automation         |
-| Prompt Engineering      | Advanced     | Multi-Agent Development         |
-| Retrieval Systems       | Advanced     | Knowledge Retrieval Pipelines   |
-| Security AI             | Intermediate | AI-Assisted Defensive Security  |
-| Local AI Infrastructure | Advanced     | Self-Hosted Models & Toolchains |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>  <img src="https://skillicons.dev/icons?i=java"/>  <img src="https://skillicons.dev/icons?i=postgresql"/>  <img src="https://skillicons.dev/icons?i=docker"/>  <img src="https://skillicons.dev/icons?i=git"/>  <img src="https://skillicons.dev/icons?i=github"/>  <img src="https://skillicons.dev/icons?i=gcp"/>  <img src="https://skillicons.dev/icons?i=linux"/>  <img src="https://skillicons.dev/icons?i=bash"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Ollama` • `OpenWebUI` • `n8n` • `Metasploit` • `Binary Ninja` • `GDB` • `9Router`
+
+</div>
 
 ---
 
-# Featured Projects
+# AI Systems
+
+| Area              | Focus                          |
+| ----------------- | ------------------------------ |
+| LLM Engineering   | Ollama & Local Models          |
+| Retrieval Systems | Knowledge Retrieval Pipelines  |
+| Agentic Systems   | Multi-Agent Workflows          |
+| Automation        | n8n Automation                 |
+| Security AI       | AI-Assisted Defensive Security |
+| Infrastructure    | Self-Hosted AI Toolchains      |
+
+---
+
+# Selected Work
 
 <details>
 <summary><b>VaultAI</b></summary>
 
+<br>
+
 ### Intelligent Personal Knowledge Vault
 
-| Metric      | Details                                                     |
-| ----------- | ----------------------------------------------------------- |
-| Stack       | Python, JSON, Pickle, PowerShell, Bash, Ollama              |
-| Scale       | Multi-source knowledge indexing                             |
-| Performance | Concurrent context processing                               |
-| Security    | Local-first architecture                                    |
-| Impact      | Enhanced information recall                                 |
-| Repository  | [VaultAI](https://github.com/ak6580123/VaultAI/tree/master) |
+AI-powered knowledge retrieval platform designed to help users search, recall, and interact with their personal information ecosystem.
 
-VaultAI is an AI-powered vault scanning platform designed to help users discover, retrieve, and interact with personal knowledge repositories.
+**Core Technologies**
 
-Features include automated context gathering, concurrent document processing, local LLM integration through Ollama, and intelligent knowledge recall.
+Python • Ollama • PowerShell • JSON • Pickle
+
+**Highlights**
+
+* Context-aware retrieval pipelines
+* Local-first architecture
+* Concurrent document processing
+* AI-powered knowledge recall
+* Self-hosted model support
+
+**Repository**
+
+https://github.com/ak6580123/VaultAI
 
 </details>
+
+<br>
 
 <details>
 <summary><b>ChatApp</b></summary>
 
+<br>
+
 ### Secure Multi-User Communication Platform
 
-| Metric      | Details                                      |
-| ----------- | -------------------------------------------- |
-| Stack       | Java, PostgreSQL, JDBC                       |
-| Scale       | Multi-user messaging                         |
-| Performance | Offline queue processing                     |
-| Security    | SHA-256 message protection                   |
-| Impact      | Reliable communication infrastructure        |
-| Repository  | [ChatApp](https://github.com/ak9886/ChatApp) |
+A secure communication system built with Java and PostgreSQL supporting offline delivery and multi-user conversations.
 
-A secure chat platform supporting multi-user communication, group conversations, offline delivery logic, and database-backed persistence.
+**Core Technologies**
+
+Java • PostgreSQL • JDBC
+
+**Highlights**
+
+* Group chat support
+* Offline message delivery
+* SHA-256 message protection
+* Database-backed persistence
+* Multi-user communication
+
+**Repository**
+
+https://github.com/ak9886/ChatApp
 
 </details>
 
@@ -154,48 +159,48 @@ A secure chat platform supporting multi-user communication, group conversations,
 
 ### SRM Institute of Science and Technology
 
-**Jul 2024 – Present**
+**July 2024 — Present**
 
-Focused on cybersecurity engineering, software development, artificial intelligence, and modern computing systems.
+Focused on cybersecurity engineering, secure software development, AI systems, and modern infrastructure.
 
-#### Scope of Work
+### Scope
 
-* Developing AI-assisted software solutions
+* AI-assisted software engineering
 * Security-focused application development
 * Capture The Flag competitions
-* Vulnerability research and analysis
-* Full-stack software engineering
+* Vulnerability research
+* Full-stack development
 * Open-source contribution
 
-**Skills:** `Cybersecurity` `Python` `Java` `AI` `Docker` `Cloud` `Software Engineering`
+### Technologies
+
+`Cybersecurity` `Python` `Java` `Docker` `AI` `Cloud` `Software Engineering`
 
 ---
 
-# Achievements
+# Recognition
 
-<div align="center">
-
-| Recognition                | Details                              |
-| -------------------------- | ------------------------------------ |
-| PicoCTF Participant        | Cybersecurity Competition Experience |
-| CICADA Hackathon           | Competitive Security Problem Solving |
-| Attack & Defence Challenge | Defensive Security Exposure          |
-| ByteBeat CTF               | Capture The Flag Participation       |
-| Hackpick Bootcamp          | Technical Development Program        |
-| HACKSTROM                  | Security Competition                 |
-| HTB CTF                    | Hands-on Security Challenges         |
-
-</div>
+| Event                      | Area                          |
+| -------------------------- | ----------------------------- |
+| PicoCTF                    | Cybersecurity Competition     |
+| CICADA Hackathon           | Security Engineering          |
+| Attack & Defence Challenge | Defensive Security            |
+| ByteBeat CTF               | Capture The Flag              |
+| Hackpick Bootcamp          | Technical Development         |
+| HACKSTROM                  | Security Competition          |
+| HTB CTF                    | Practical Security Challenges |
 
 ---
 
 # Certifications
 
-## Professional Certifications
+<div align="center">
 
-![](https://img.shields.io/badge/CPT%20v3-Certified-purple?style=for-the-badge)
+![](https://img.shields.io/badge/CPT_v3-Certified-DC2626?style=flat-square)
 
-![](https://img.shields.io/badge/Skill%20India-Cybersecurity-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Skill_India-Cybersecurity-991B1B?style=flat-square)
+
+</div>
 
 ---
 
@@ -203,106 +208,59 @@ Focused on cybersecurity engineering, software development, artificial intellige
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-111111?style=flat-square)](https://leetcode.com)
 
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge)](https://geeksforgeeks.org)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-111111?style=flat-square)](https://geeksforgeeks.org)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge)](https://hackerrank.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-111111?style=flat-square)](https://hackerrank.com)
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](https://codechef.com)
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ak6580123&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=ak6580123&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak6580123&layout=compact&theme=tokyonight&hide_border=true"/>
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-111111?style=flat-square)](https://codechef.com)
 
 </div>
 
 ---
 
-# GitHub Highlights
+# GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak6580123&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ak6580123&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF3B30&icon_color=DC2626&text_color=C9D1D9"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=ak6580123&hide_border=true&background=00000000&ring=FF3B30&fire=DC2626&currStreakLabel=FF3B30"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ak6580123&bg_color=00000000&color=FF3B30&line=DC2626&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# Development Profile
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak6580123&theme=github_dark"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak6580123&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak6580123&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak6580123&theme=tokyonight"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak6580123&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak6580123&theme=github_dark"/>
 
 </div>
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Cybersecurity
-  - AI Engineering
-  - Cloud Security
-  - System Design
-
-Building:
-  - VaultAI
-  - Secure Software Systems
-  - AI-Powered Security Tools
-
-Exploring:
-  - LLM Infrastructure
-  - Agentic AI
-  - DevSecOps
-  - Threat Detection
-
-Open_To:
-  - Internships
-  - Open Source
-  - Security Research
-  - Software Engineering Roles
-```
-
----
-
-# Connect
+# Contact
 
 <div align="center">
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/ak6580123">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/ak6580123">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
-</a>
+<a href="mailto:your@email.com">Email</a> • <a href="https://www.linkedin.com">LinkedIn</a> • <a href="https://github.com/ak6580123">GitHub</a>
 
 </div>
 
@@ -310,8 +268,10 @@ Open_To:
 
 <div align="center">
 
-*"Building secure, intelligent, and scalable software systems that create meaningful impact."*
+*"Build deliberately. Secure relentlessly. Learn continuously."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F1D1D,50:DC2626,100:FF3B30"/>
+
+</div>
