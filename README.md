@@ -224,13 +224,7 @@ Focused on cybersecurity engineering, secure software development, AI systems, a
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-111111?style=flat-square)](https://leetcode.com)
-
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-111111?style=flat-square)](https://geeksforgeeks.org)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-111111?style=flat-square)](https://hackerrank.com)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-111111?style=flat-square)](https://codechef.com)
+[![TryHackMe]](https://tryhackme.com/p/DepressedJellybean)
 
 </div>
 
